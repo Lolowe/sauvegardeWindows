@@ -1,0 +1,10 @@
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\ProjetSave.exe.config
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\ProjetSave.exe
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\ProjetSave.pdb
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.csprojResolveAssemblyReference.cache
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.Form1.resources
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.Properties.Resources.resources
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.csproj.GenerateResource.Cache
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.exe
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.pdb
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.Restore_Form.resources
