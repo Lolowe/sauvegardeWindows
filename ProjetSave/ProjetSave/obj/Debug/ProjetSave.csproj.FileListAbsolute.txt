@@ -8,3 +8,15 @@ C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\Pro
 C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.exe
 C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.pdb
 C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\obj\Debug\ProjetSave.Restore_Form.resources
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.Auth.dll
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.Core.dll
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.dll
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.xml
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.Auth.xml
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.Core.xml
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\pasco\Documents\Epsi\Projet_sauvegarde\sauvegardeWindows\ProjetSave\ProjetSave\bin\Debug\Newtonsoft.Json.xml
